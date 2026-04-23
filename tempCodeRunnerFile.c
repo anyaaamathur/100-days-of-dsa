@@ -1,21 +1,18 @@
-Day 44 - Question 1: Binary Tree Traversals
+Day 81 - Question 1: Implement Bubble Sort
 // Close
-// Problem Statement:
-// Perform inorder, preorder, and postorder traversals of a given binary tree.
+// Problem: Implement Bubble Sort - Implement the algorithm.
 
-// Input Format:
-// - First line contains integer N
-// - Second line contains level-order traversal (-1 represents NULL)
+// Input:
+// - First line: integer n
+// - Second line: n space-separated integers
 
-// Output Format:
-// - Print inorder, preorder, and postorder traversals
+// Output:
+// - Print the sorted array or search result
 
 // Example:
 // Input:
-// 7
-// 1 2 3 4 5 6 7
+// 5
+// 64 34 25 12 22
 
 // Output:
-// 4 2 5 1 6 3 7
-// 1 2 4 5 3 6 7
-// 4 5 2 6 7 3 1
+// 12 22 25 34 64
